@@ -37,7 +37,47 @@
   },
   {
     "name": "Wallpaper 10",
-    "url": "https://images.pexels.com/photos/1707215/pexels-photo-1707215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "https://images.pexels.com/photos/18189341/pexels-photo-18189341.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+    {
+    "name": "Wallpaper 11",
+    "url": "https://images.pexels.com/photos/18189345/pexels-photo-18189345/free-photo-of-character.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Wallpaper 12",
+    "url": "https://images.pexels.com/photos/18189373/pexels-photo-18189373/free-photo-of-spaces.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+    {
+    "name": "Wallpaper 13",
+    "url": "https://images.pexels.com/photos/18189374/pexels-photo-18189374.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Wallpaper 14",
+    "url": "https://images.pexels.com/photos/18189375/pexels-photo-18189375.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+    {
+    "name": "Wallpaper 15",
+    "url": "https://images.pexels.com/photos/18189376/pexels-photo-18189376.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Wallpaper 16",
+    "url": "https://images.pexels.com/photos/18189394/pexels-photo-18189394.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+      {
+    "name": "Wallpaper 17",
+    "url": "https://images.pexels.com/photos/18189393/pexels-photo-18189393/free-photo-of-sky.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Wallpaper 18",
+    "url": "https://images.pexels.com/photos/18189418/pexels-photo-18189418/free-photo-of-4d.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+      {
+    "name": "Wallpaper 19",
+    "url": "https://images.pexels.com/photos/18189442/pexels-photo-18189442/free-photo-of-night.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Wallpaper 20",
+    "url": "https://images.pexels.com/photos/18189512/pexels-photo-18189512/free-photo-of-hero.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {}
 ]
